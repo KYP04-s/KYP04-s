@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KYP04-s
+- 👋 Hi, I’m Kfir Yovel Pudim (AKA @KYP04-s)
 - 👀 I’m interested in software development and networking
 - 🌱 I’m currently learning linux and C
 - 😄 Pronouns: he\him
